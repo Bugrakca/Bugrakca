@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Django.
-- - 📫 How to reach me: bgrakca@gmail.com
+- 📫 How to reach me: bgrakca@gmail.com
