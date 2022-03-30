@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Unity.
 - 📫 How to reach me: bgrakca@gmail.com
