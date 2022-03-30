@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Unity.
+- 🔭 I'm working on some little game projects right now.
 - 📫 How to reach me: bgrakca@gmail.com
