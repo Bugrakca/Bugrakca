@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently studying Game Development with Unity.
+- 🌱 I’m currently studying Game Development with Unreal Engine.
 - 🔭 I'm working on some little game projects right now.
 - 📫 How to reach me: bgrakca@gmail.com
